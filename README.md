@@ -13,7 +13,7 @@ So far, i have been able to get an
 extremely ugly output of the first page of the 
 Ghdb on exploitdb.com. I am having trouble 
 with scraping the results from google
-They are not fans of what the presume as
+They are not fans of what they presume as
 Bots.
 
 # Todo list (wip)
