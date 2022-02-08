@@ -24,4 +24,4 @@ I need to upload my google scrape once roughly working
 Solve the captcha bot detect
 Randomize user agent
 (Pipe dream)Chart results to some form of document beyond txt.
-But still get a nice formated text outout as well. 
+But still get a nice formated text output as well. 
