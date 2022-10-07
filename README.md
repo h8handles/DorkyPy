@@ -1,7 +1,7 @@
 # Ultimate Goal
 
 The plan here is to work on an actual project and accomplish something.
-That end somethimg would be a script to take the google hacking database
+That end something would be a script to take the google hacking database
  and search google for those dorks. My plan is for this to be a multi script
  tool with the ability to specify target arguments for Red teamers and bug bounty 
 hunters. This is my first major project but i have a good idea of what I want to accomplish.
